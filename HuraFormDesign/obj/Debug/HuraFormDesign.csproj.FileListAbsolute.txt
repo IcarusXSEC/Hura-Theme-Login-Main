@@ -1,0 +1,12 @@
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\bin\Debug\HuraFormDesign.exe.config
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\bin\Debug\HuraFormDesign.exe
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\bin\Debug\HuraFormDesign.pdb
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\bin\Debug\Hura Theme.dll
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.csprojResolveAssemblyReference.cache
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.Login.resources
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.Properties.Resources.resources
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.csproj.GenerateResource.Cache
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.exe
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.pdb
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.Main.resources
+c:\users\ajpha\documents\visual studio 2013\Projects\HuraFormDesign\HuraFormDesign\obj\Debug\HuraFormDesign.SplashScreen.resources
